@@ -1,0 +1,6 @@
+Line 129: Class prjFarmManagement.uctlDate of control uctlFromDate was not a loaded control class.
+Line 139: Class prjFarmManagement.uctlDate of control uctlDocumentDate was not a loaded control class.
+Line 136: The property name _ExtentX in uctlFromDate is invalid.
+Line 137: The property name _ExtentY in uctlFromDate is invalid.
+Line 146: The property name _ExtentX in uctlDocumentDate is invalid.
+Line 147: The property name _ExtentY in uctlDocumentDate is invalid.
